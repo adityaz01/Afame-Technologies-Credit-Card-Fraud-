@@ -1,4 +1,4 @@
-# Afame-Technologies-Credit-Card-Fraud-
+# Credit Card Fraud Detection
 Credit Card Fraud Detection project! In today's digital world, safeguarding financial transactions from fraud is paramount. Leveraging advanced machine learning models like Logistic Regression, Random Forest, and Decision Tree, our project is dedicated to detecting and preventing fraudulent activities with precision.
 
 ### About the Dataset
